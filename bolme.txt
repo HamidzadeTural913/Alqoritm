@@ -1,0 +1,19 @@
+
+problem 2: 3 ve 7 ededlerinin qaliqsiz bolunmesi.
+
+
+     b ededi 21 e bolunurmu?
+       ekrana yaz: "eded 3-e ve 7-ye tam bolunur"
+     eks halda 
+       ekrana yaz: "eded 3-e ve 7-ye tam bolunmur"
+
+START 
+input b
+if b%21 == 0;
+ print ("b ededi 3-e ve 7-ye tam bolunur")
+else
+ print ("b ededi 3-e ve 7-ye tam bolunmur")
+END
+
+
+

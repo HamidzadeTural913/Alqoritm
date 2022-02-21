@@ -1,0 +1,31 @@
+problem 1: Havanin isti ve ya soyuq olmasi?
+
+tempraturu a olaraq qebul edek.
+
+
+    a ədədi 15-ə bərabərdirmi?
+        ekrana yaz: "hava nə isti,nede soyuqdur"
+       eks halda a<15
+        ekrana yaz: "hava soyuqdur"
+       eks halda a>15
+        ekrana yaz: "hava istidir"
+
+START
+input n
+if a==15;
+ print("hava ne isti nede soyuqdur")
+if a<15;                                                   
+ print("hava soyuqdur")                                    
+else                                                       
+ print("hava istidir")          
+END                           
+                                                           
+
+
+
+
+
+
+
+
+
